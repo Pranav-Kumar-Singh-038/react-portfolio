@@ -1,0 +1,21 @@
+.overlay {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(to right, #e36328, #a74305);
+    opacity: 1;
+    transition: opacity 1s ease; 
+  }
+  
+  @keyframes fadeInOpacity {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 0.7;
+    }
+  }
+  
+  .group:hover .overlay {
+    animation: fadeInOpacity 0.25s ease 0s forwards;
+  }
+  

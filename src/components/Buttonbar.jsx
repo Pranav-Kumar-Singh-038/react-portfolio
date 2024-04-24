@@ -42,7 +42,8 @@ export function Buttonbar() {
                         </div>
                     </a>
                     <a href="#" className="relative w-11/12 md:w-52 group h-20 md:h-28 block bg-no-repeat bg-cover bg-center overflow-hidden rounded-md" style={{ backgroundImage: "url('/image--1.jpg')" }}>
-                        <div className="overlay absolute inset-0"></div>                        <div className="relative p-2 z-20 flex justify-between">
+                        <div className="overlay absolute inset-0"></div>
+                        <div className="relative p-2 z-20 flex justify-between">
                             <div className="flex flex-col ml-3">
                                 <div className="flex flex-col h-12">
                                     <div className="text-white text-lg md:text-base font-medium">Become</div>

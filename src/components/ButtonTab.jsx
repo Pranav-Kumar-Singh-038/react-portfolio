@@ -9,7 +9,7 @@ export function ButtonTab() {
                     </div>
                     <div className="border-gray-500 w-96 border"></div>
                 </div>
-                <div className="flex justify-center items-center text-white text-lg md:text-2xl pb-8">
+                <div className="flex justify-center items-center text-white text-lg md:text-2xl pb-40 md:pb-8">
                     FEATURED
                 </div>
                 <div className="grid md:flex justify-center text-white gap-1 md:gap-8">

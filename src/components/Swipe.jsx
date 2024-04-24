@@ -13,11 +13,10 @@ import { Autoplay, EffectCube, Navigation, Pagination } from 'swiper/modules';
 
 export function Swipe() {
     return (
-        <div className='flex justify-center'>
+        <div className='flex justify-center mb-36 md:mb-0'>
             <Swiper
                 effect={'cube'}
                 grabCursor={true}
-                autoplay={false}
                 loop={true}
                 navigation={{
                     nextEl: '.custom-swiper-button-prev',
@@ -29,11 +28,15 @@ export function Swipe() {
                     shadowOffset: 20,
                     shadowScale: 0.94,
                 }}
+                autoplay={{
+                    delay: '3000',
+                    disableOnInteraction: false
+                }}
                 modules={[EffectCube, Pagination, Navigation, Autoplay]}
-                className="w-full h-1/2 absolute mt-40"
+                className="w-full h-1/2 absolute md:mt-40 p-10"
             >
                 <SwiperSlide className='flex justify-center items-center'>
-                    <img className='relative w-100 h-full' src="https://res.cloudinary.com/dfyusbisg/image/upload/v1712058912/samples/balloons.jpg" />
+                    <img className='relative w-100 h-full object-cover' src="https://res.cloudinary.com/dfyusbisg/image/upload/v1712058912/samples/balloons.jpg" />
                 </SwiperSlide>
                 <SwiperSlide className='flex justify-center items-center'>
                     <img className='relative w-100 h-full' alt='hii' src="https://res.cloudinary.com/dfyusbisg/image/upload/v1712058896/samples/ecommerce/accessories-bag.jpg" />
@@ -54,7 +57,7 @@ export function Swipe() {
                     <img className='relative w-100 h-full' src="https://res.cloudinary.com/dfyusbisg/image/upload/v1712058897/samples/imagecon-group.jpg" />
                 </SwiperSlide>
             </Swiper>
-            <div className='w-screen flex gap-96 mt-96'>
+            <div className='hidden md:block w-screen md:flex gap-96 mt-96'>
                 <div className="z-10 top-1/2 left-4 pl-96">
                     <button
                         className="custom-swiper-button-next bg-gray-400 opacity-40 hover:opacity-100 hover:bg-black rounded-full w-8 h-8 flex justify-center items-center">

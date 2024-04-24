@@ -49,7 +49,7 @@ export default function App() {
                 </SwiperSlide>
             </Swiper>
 
-            <div className="absolute z-50 top-1/2 right-8">
+            <div className="absolute z-20 top-1/2 right-8">
                 <button onClick={() => {
                     handleChangeTransition(1500);
                 }}
@@ -59,7 +59,7 @@ export default function App() {
                     </svg>
                 </button>
             </div>
-            <div className="absolute z-50 top-1/2 left-8">
+            <div className="absolute z-20 top-1/2 left-8">
                 <button onClick={() => {
                     handleChangeTransition(1500);
                 }}

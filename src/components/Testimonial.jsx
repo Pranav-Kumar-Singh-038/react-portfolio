@@ -11,9 +11,9 @@ export const Testimonial = () => {
                 <div className="p-3">
                     <div className="text-white flex justify-center items-center pb-3">
                         <div className="flex items-center">
-                            <div className="border border-gray-500 w-96"></div>
-                            <div className="ml-3 mr-3 text-4xl text-black font-semibold">Testimonials</div>
-                            <div className="border border-gray-500 w-96"></div>
+                            <div className="border border-gray-500 w-16 md:w-96"></div>
+                            <div className="ml-3 mr-3 text-2xl md:text-4xl text-black font-semibold">Testimonials</div>
+                            <div className="border border-gray-500 w-16 md:w-96"></div>
                         </div>
                     </div>
                     <div className="flex justify-center text-gray-600 text-lg pb-4">Trusted By</div>

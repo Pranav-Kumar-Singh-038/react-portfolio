@@ -10,7 +10,7 @@ export function Infotab() {
                     <Particle></Particle>
                     <CountUp
                         start={0}
-                        end={22}
+                        end={23}
                         duration={2.75}
                         separator=" "
                         decimals={0} >

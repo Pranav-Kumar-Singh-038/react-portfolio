@@ -1,7 +1,6 @@
 # Portfolio Website for Commercial Businesses
 
-This project is a portfolio website designed for commercial businesses to showcase their services and projects. Built with React and a suite of modern tools and libraries, the site features interactive particles, responsive design, and integrated payment options.
-
+This project is a portfolio website designed for commercial businesses to showcase their services and projects. Built with React and a suite of modern tools and libraries, the site features interactive particles and a responsive design
 ## Features
 
 - Interactive particles animations using `tsparticles`

@@ -44,12 +44,12 @@ This project is a portfolio website designed for commercial businesses to showca
 
 ## Live Link
 
-[dukan-app-ui](https://dukan-app-ui.netlify.app/)
+[commercial-portfolio]([https://dukan-app-ui.netlify.app/](https://main--commercial-portfolio.netlify.app/))
 
 
 ## Preview
 
-[Dukan App FrontEnd Preview](https://youtu.be/mmdieewTAAk)
+[Commercial Portfolio Preview]([https://youtu.be/mmdieewTAAk](https://youtu.be/vBHWc2qzqa0))
 
 
 ## Dukan-Frontend

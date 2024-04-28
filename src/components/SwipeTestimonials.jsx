@@ -41,136 +41,94 @@ export default function SwipeTestimonials() {
           <div className='pb-10'>
             <div className='flex'>
               <div>
-                <img className='w-14 h-14 rounded-full' src='http://sonusharma.in/wp-content/uploads/2022/03/WhatsApp-Image-2022-03-31-at-5.14.21-PM.jpeg'></img>
+                <img className='w-14 h-14 rounded-full' src='https://res.cloudinary.com/dxwlsrgwj/image/upload/v1713243483/samples/woman-on-a-football-field.jpg'></img>
               </div>
               <div>
-                <div className='text-gray-700 font-medium text-base pl-4'>Ravi Saraf</div>
+                <div className='text-gray-700 font-medium text-base pl-4'>Dummy Name</div>
                 <div className='text-gray-500 pl-4 tex-sm'>
-                  President<br></br>
-                  Agratrade, Chennai
+                  dummy position<br></br>
+                  dummy company
                 </div>
               </div>
             </div>
           </div>
           <div className='text-gray-700 font-light italic rounded-xl bg-gray-300 p-4 bg-opacity-30'>
-            The topic couldn’t have been better
-            than Believe In Yourself and we
-            could see the energy inside
-            the auditorium, Mr. Sharma happened
-            to charge all of us so much that
-            we are still living in that moment.
-            We are thankful to Mr. Sonu Sharma
-            and his team for such a amazing
-            show and we look forward to
-            future engagement soon.</div>
-        </SwiperSlide>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec libero quis nunc malesuada aliquet. Nullam vehicula, nisi non vehicula ultrices, risus augue pellentesque augue, nec lacinia nunc sem in odio. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed posuere, metus a mollis blandit, est quam fermentum nisi, sit amet auctor nulla diam vel felis. Curabitur sit amet massa nisi</div>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec libero quis nunc malesuada aliquet. Nullam vehicula, nisi non vehicula ultrices, risus augue pellentesque augue, nec lacinia nunc sem in odio. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed posuere, metus a mollis blandit, est quam fermentum nisi, sit amet auctor nulla diam vel felis. Curabitur sit amet massa nisi</SwiperSlide>
         <SwiperSlide className='h-96 text-sm text-center rounded-md border border-white shadow-md p-4 bg-white'>
           <div className='pb-10'>
             <div className='flex'>
               <div>
-                <img className='w-14 h-14 rounded-full' src='http://sonusharma.in/wp-content/uploads/2022/03/WhatsApp-Image-2022-03-29-at-9.46.18-AM.jpeg'></img>
+                <img className='w-14 h-14 rounded-full' src='https://res.cloudinary.com/dxwlsrgwj/image/upload/v1713243484/samples/upscale-face-1.jpg'></img>
               </div>
               <div>
                 <div className='text-gray-700 font-medium text-base pl-4'>
-                  Amol<br></br>
-                  Chitlangia
+                  Dummy<br></br>
+                 name
                 </div>
                 <div className='text-gray-500 pl-4 tex-sm'>
-                  Director(BN Chem)
+                 dummy position
                 </div>
               </div>
             </div>
           </div>
           <div className='text-gray-700 font-light italic rounded-xl bg-gray-300 p-4 bg-opacity-30'>
-            I got the opportunity to arrange
-            a motivational seminar for my club
-            and Member’s demanded to have
-            it of Mr Sonu Sharma. The
-            2 hour session at Taj Wellington
-            Chennai was jam packed, and at times
-            there was pin drop silence.
-            The personality of Mr. Sonu
-            Sharma is very charming, but at
-            the same time his connection with
-            the audience is amazing.</div>
+           Consequat qui nostrud incididunt et amet proident. Veniam enim et esse consectetur nostrud veniam non ad voluptate duis. Duis cupidatat laboris irure proident deserunt enim officia nulla exercitation proident commodo dolor eiusmod velit. Voluptate qui in ad ut est Lorem irure. Veniam officia sunt mollit qui et do amet duis. Ea ea id veniam sint ex enim.</div>
         </SwiperSlide>
         <SwiperSlide className='h-96 text-sm text-center rounded-md border border-white shadow-md p-4 bg-white'>
           <div className='pb-10'>
             <div className='flex'>
               <div>
-                <img className='w-14 h-14 rounded-full' src='http://sonusharma.in/wp-content/uploads/2022/03/WhatsApp-Image-2022-03-28-at-7.10.00-PM.jpeg'></img>
+                <img className='w-14 h-14 rounded-full' src='https://res.cloudinary.com/dxwlsrgwj/image/upload/v1713243481/samples/man-portrait.jpg'></img>
               </div>
               <div>
                 <div className='text-gray-700 font-medium text-base pl-4'>
-                  Mr Manish<br></br>
-                  Khandelwal
+                  Dummy<br></br>
+                 Name
                 </div>
                 <div className='text-gray-500 pl-4 tex-sm'>
-                  M.D(Biomech)
-                </div>
-              </div>
-            </div>
-          </div>
-          <div className='text-gray-700 font-light italic rounded-xl bg-gray-300 p-4 bg-opacity-30'>
-            Low confidence and lower self
-            esteem can usually be seen among
-            people these days. Want to tackle
-            it? Listen to him once. I’m very
-            sure you’ll get the positive response
-            to all your self-doubts and you’ll
-            emerge as a completely new and much
-            more confident human being with a
-            higher self-esteem.</div>
-        </SwiperSlide>
-        <SwiperSlide className='h-96 text-sm text-center rounded-md border border-white shadow-md p-4 bg-white'>
-          <div className='pb-10'>
-            <div className='flex'>
-              <div>
-                <img className='w-14 h-14 rounded-full' src='http://sonusharma.in/wp-content/uploads/2022/03/WhatsApp-Image-2022-03-28-at-7.21.06-PM.jpeg'></img>
-              </div>
-              <div>
-                <div className='text-gray-700 font-medium text-base pl-4'>Asmita Patel</div>
-                <div className='text-gray-500 pl-4 tex-sm'>
-                  Founder APGST
+                 dummy position
                 </div>
               </div>
             </div>
           </div>
           <div className='text-gray-700 font-light italic rounded-xl bg-gray-300 p-4 bg-opacity-30'>
-            Just listen to him once and you’ll
-            be motivated on another level.
-            Attending is seminars has always
-            been completely motivating, satisfying
-            and rewarding as well. You’ll get to
-            learn a lot from him if you listen
-            to him patiently.</div>
+          Sunt excepteur laboris non id Lorem proident. Sit id enim commodo qui et pariatur excepteur nisi cillum deserunt reprehenderit. Sint ullamco ullamco ex magna magna Lorem. Excepteur veniam irure incididunt est exercitation. Sit duis pariatur pariatur commodo consequat occaecat cillum qui deserunt ea. Deserunt nisi ut tempor exercitation ea aliqua ipsum commodo enim est ea irure.</div>
         </SwiperSlide>
         <SwiperSlide className='h-96 text-sm text-center rounded-md border border-white shadow-md p-4 bg-white'>
           <div className='pb-10'>
             <div className='flex'>
               <div>
-                <img className='w-14 h-14 rounded-full' src='http://sonusharma.in/wp-content/uploads/2022/03/WhatsApp-Image-2022-03-28-at-7.18.48-PM.jpeg'></img>
+                <img className='w-14 h-14 rounded-full' src='https://res.cloudinary.com/dxwlsrgwj/image/upload/v1713243478/samples/smile.jpg'></img>
               </div>
               <div>
-                <div className='text-gray-700 font-medium text-base pl-4'>Ashish Adarsh</div>
+                <div className='text-gray-700 font-medium text-base pl-4'>Dummy Name</div>
                 <div className='text-gray-500 pl-4 tex-sm'>
-                  Founder Director<br></br>
-                  (Arcade College)
+                 dummy position
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className='text-gray-700 font-light italic rounded-xl bg-gray-300 p-4 bg-opacity-30'>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec libero quis nunc malesuada aliquet. Nullam vehicula, nisi non vehicula ultrices, risus augue pellentesque augue, nec lacinia nunc sem in odio. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed posuere, metus a mollis blandit, est quam fermentum nisi, sit amet auctor nulla diam vel felis. Curabitur sit amet massa nisi</div>
+        </SwiperSlide>
+        <SwiperSlide className='h-96 text-sm text-center rounded-md border border-white shadow-md p-4 bg-white'>
+          <div className='pb-10'>
+            <div className='flex'>
+              <div>
+                <img className='w-14 h-14 rounded-full' src='https://res.cloudinary.com/dxwlsrgwj/image/upload/v1713243456/samples/people/smiling-man.jpg'></img>
+              </div>
+              <div>
+                <div className='text-gray-700 font-medium text-base pl-4'>Dummy Name</div>
+                <div className='text-gray-500 pl-4 tex-sm'>
+                  dummy position<br></br>
+                  Dummy place
                 </div>
               </div>
             </div>
           </div>
           <div className=' text-gray-700 font-light italic rounded-xl bg-gray-300 p-4 bg-opacity-30'>
-            Direction, positive attitude and
-            confidence- all what I’ve got from
-            him. What else I can say? I would
-            have never believed in what a
-            difference. I now have a direction,
-            a positive attitude and confidence
-            in myself and my abilities.
-            By applying his motivational advices
-            to your life, you can become a better
-            person than ever before.</div>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec libero quis nunc malesuada aliquet. Nullam vehicula, nisi non vehicula ultrices, risus augue pellentesque augue, nec lacinia nunc sem in odio. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed posuere, metus a mollis blandit, est quam fermentum nisi, sit amet auctor nulla diam vel felis. Curabitur sit amet massa nisi</div>
         </SwiperSlide>
 
       </Swiper>

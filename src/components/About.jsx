@@ -61,23 +61,11 @@ export const About = () => {
                 </div>
 
                 <div className='hidden md:block w-2/6 font-light text-lg leading-loose text-gray-700'>
-                    Mr. <b>Sonu Sharma</b>&nbsp;is the founder of&nbsp;<b>
-                        Dynamic India Group.</b>&nbsp;An&nbsp;<b>Author, Educator, Business Counselor,
-                    </b>and Productive Business Eantruprinor, he’s a way sought- after
-                    <b>speaker.</b>&nbsp;These days he is one of the <b>youngest sacred Speakers
-                    </b> in India. He <b>conjures up</b> and <b>encourages peoples </b>
-                    to <b>appreciate</b>&nbsp;their&nbsp;<b>true potential.</b>&nbsp;
-                    He has taken his dynamic person message to the opposite side of the
-                    world. His two decades of&nbsp;<b>analysis</b> and understanding within
-                    the <b>Direct Sales Business</b>&nbsp;has placed several organisations on
-                    a&nbsp;<b>path of growth </b>and <b>fulfillment. </b>More than a
-                    <b>million individuals</b> have benefited from his <b>dynamic workshops
-                    </b> in our many states of India and 1 billion have watched him on
-                    <b>Social Media</b> and various other <b>online platforms</b>&nbsp;
-                    across&nbsp;<b>114 countries.</b>
+                Mr. <b>Lorem Ipsum</b>&nbsp;is the founder of&nbsp;<b>Dolor Sit Amet Group.</b>&nbsp;An&nbsp;<b>Author, Educator, Business Counselor,</b> and Productive Business Entrepreneur, he’s a way sought-after <b>speaker.</b>&nbsp;These days he is one of the <b>youngest inspirational Speakers</b> in Lorem. He <b>inspires</b> and <b>encourages people</b> to <b>realize</b>&nbsp;their&nbsp;<b>true potential.</b>&nbsp;He has taken his dynamic personal message to the other side of the world. His two decades of&nbsp;<b>research</b> and understanding in the <b>Direct Sales Industry</b>&nbsp;has placed many organisations on a&nbsp;<b>path of growth</b> and <b>fulfillment.</b> More than a <b>million people</b> have benefited from his <b>dynamic workshops</b> in our many states of Lorem and 1 billion have watched him on <b>Social Media</b> and various other <b>online platforms</b>&nbsp;across&nbsp;<b>114 countries.</b>
+
                 </div>
                 <div className='md:hidden text-gray-700 leading-loose text-base font-light text-center p-10'>
-                Mr. Sonu Sharma is the founder of Dynamic India Group. An Author, Educator, Business Counselor, and Productive Business Eantruprinor, he’s a way sought- after speaker. These days he is one of the youngest sacred Speakers in India. He conjures up and encourages peoples to appreciate their true potential. He has taken his dynamic person message to the opposite side of the world. His two decades of analysis and understanding within the Direct Sales Business has placed several organisations on a path of growth and fulfillment. More than a million individuals have benefited from his dynamic workshops in our many states of India and 1 billion have watched him on Social Media and various other online platforms across 114 countries.
+                Lorem Ipsum is the founder of Dolor Sit Amet Group. An Author, Educator, Business Counselor, and Productive Business Entrepreneur, he’s a way sought-after speaker. These days he is one of the youngest inspirational Speakers in Lorem. He inspires and encourages people to realize their true potential. He has taken his dynamic personal message to the other side of the world. His two decades of research and understanding in the Direct Sales Industry has placed many organisations on a path of growth and fulfillment. More than a million people have benefited from his dynamic workshops in our many states of Lorem and 1 billion have watched him on Social Media and various other online platforms across 114 countries.
                 </div>
             </div>
         </div>

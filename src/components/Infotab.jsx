@@ -24,7 +24,7 @@ export function Infotab() {
                     <div>Years of </div>
                     <div>experience</div>
                 </div>
-                <div className="text-gray-700 font-normal">Glorious 22 years of<br /> experience and success in<br /> changing lives.</div>
+                <div className="text-gray-700 font-normal">Glorious 11 years of<br /> experience and success in<br /> changing lives.</div>
                 <div>
                     <button className="bg-blue-400 text-white p-2 rounded-md mt-6 ml-8" onClick={() => { window.location.href = '#form'; }}>
                         Get In Touch

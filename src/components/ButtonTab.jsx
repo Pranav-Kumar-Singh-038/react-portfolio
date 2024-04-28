@@ -5,12 +5,12 @@ export function ButtonTab() {
                 <div className="flex pb-2 justify-center items-center">
                     <div className="border-gray-500 w-96 border"></div>
                     <div className="text-3xl md:text-5xl ml-4 mr-4 text-white">
-                        Services
+                        Dummy placeholder
                     </div>
                     <div className="border-gray-500 w-96 border"></div>
                 </div>
                 <div className="flex justify-center items-center text-white text-lg md:text-2xl pb-40 md:pb-8">
-                    FEATURED
+                    Dummy placeholder
                 </div>
                 <div className="grid md:flex justify-center text-white gap-1 md:gap-8">
                     <div className=" flex-col gap-3">
@@ -21,10 +21,10 @@ export function ButtonTab() {
                                         <div className="pr-4">
                                             <img className="w-12 h-12" src="http://sonusharma.in/wp-content/uploads/2021/10/service-4_1.svg"></img>
                                         </div>
-                                        <div className="text-white font-semibold pt-2 text-lg">Leadership Training</div>
+                                        <div className="text-white font-semibold pt-2 text-lg">Dummy placeholder</div>
                                     </div>
                                     <div className="hidden md:block text-sm pt-5">
-                                        From being one of the most sought-after leadership consultants in India, his leadership skills and training has helped many to make a positive impact on their lives. Here you will get a chance to make your life better too
+                                        Ipsum minim quis cupidatat veniam ea consectetur. Anim sit adipisicing tempor enim exercitation velit. Tempor aliqua fugiat irure sunt.
                                     </div>
                                 </div>
                             </div>
@@ -36,10 +36,10 @@ export function ButtonTab() {
                                         <div className="pr-4">
                                             <img className="w-12 h-12" src="http://sonusharma.in/wp-content/uploads/2021/10/service-3_1.svg"></img>
                                         </div>
-                                        <div className="text-white font-semibold pt-2 text-lg">Affiliate Marketing</div>
+                                        <div className="text-white font-semibold pt-2 text-lg">Dummy placeholder</div>
                                     </div>
                                     <div className="hidden md:block text-sm pt-5">
-                                        Become an affiliate with us and boost your earnings by receiving generous commissions and fast payouts
+                                    Ipsum minim quis cupidatat veniam ea consectetur. Anim sit adipisicing tempor enim exercitation velit. Tempor aliqua fugiat irure sunt.
                                     </div>
                                 </div>
                             </div>
@@ -53,10 +53,10 @@ export function ButtonTab() {
                                         <div className="pr-4">
                                             <img className="w-12 h-12" src="http://sonusharma.in/wp-content/uploads/2021/10/service-4_1.svg"></img>
                                         </div>
-                                        <div className="text-white font-semibold pt-2 text-lg">Corporate Training</div>
+                                        <div className="text-white font-semibold pt-2 text-lg">Dummy placeholder</div>
                                     </div>
                                     <div className="hidden md:block text-sm pt-5">
-                                        It is a very crucial thing in today’s era. So, provide your organization’s employees with a corporate training session by Mr. Sonu Sharma to boost their self-confidence and performance as well as your business
+                                    Ipsum minim quis cupidatat veniam ea consectetur. Anim sit adipisicing tempor enim exercitation velit. Tempor aliqua fugiat irure sunt.
                                     </div>
                                 </div>
                             </div>
@@ -68,10 +68,10 @@ export function ButtonTab() {
                                         <div className="pr-4">
                                             <img className="w-12 h-12" src="http://sonusharma.in/wp-content/uploads/2021/10/service-1_1.svg"></img>
                                         </div>
-                                        <div className="text-white font-semibold pt-2 text-lg">Promotion</div>
+                                        <div className="text-white font-semibold pt-2 text-lg">Dummy placeholder</div>
                                     </div>
                                     <div className="hidden md:block text-sm pt-5">
-                                        Want to get your product or service promoted by Mr. Sonu Sharma? Contact us for the promotions and we will make it the best ever
+                                    Ipsum minim quis cupidatat veniam ea consectetur. Anim sit adipisicing tempor enim exercitation velit. Tempor aliqua fugiat irure sunt.
                                     </div>
                                 </div>
                             </div>
@@ -85,10 +85,10 @@ export function ButtonTab() {
                                         <div className="pr-4">
                                             <img className="w-12 h-12" src="http://sonusharma.in/wp-content/uploads/2021/10/service-2_1.svg"></img>
                                         </div>
-                                        <div className="text-white font-semibold pt-2 text-lg">Academic Sessions</div>
+                                        <div className="text-white font-semibold pt-2 text-lg">Dummy placeholder</div>
                                     </div>
                                     <div className="hidden md:block text-sm pt-5">
-                                        Being an educator himself, his academic skills will help you flourish in academics. No matter what background you are from, enroll in his course and you will see the difference
+                                    Ipsum minim quis cupidatat veniam ea consectetur. Anim sit adipisicing tempor enim exercitation velit. Tempor aliqua fugiat irure sunt.
                                     </div>
                                 </div>
                             </div>
@@ -100,10 +100,10 @@ export function ButtonTab() {
                                         <div className="pr-4">
                                             <img className="w-12 h-12" src="http://sonusharma.in/wp-content/uploads/2021/10/service-2_1.svg"></img>
                                         </div>
-                                        <div className="text-white font-semibold pt-2 text-lg">Life Coaching</div>
+                                        <div className="text-white font-semibold pt-2 text-lg">Dummy placeholder</div>
                                     </div>
                                     <div className="hidden md:block text-sm pt-5">
-                                        Feeling demotivated in your life? Get a life coaching session from Mr. Sonu Sharma to get over your worries and realize what actually life is all about
+                                    Ipsum minim quis cupidatat veniam ea consectetur. Anim sit adipisicing tempor enim exercitation velit. Tempor aliqua fugiat irure sunt.
                                     </div>
                                 </div>
                             </div>

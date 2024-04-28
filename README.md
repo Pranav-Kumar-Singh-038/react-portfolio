@@ -43,19 +43,17 @@ This project is a portfolio website designed for commercial businesses to showca
    This will run the app in the development mode.\
    Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## Deployment
+## Live Link
 
-For deployment, you can use platforms like Vercel, Netlify, or any other of your choice that supports Node.js applications. Ensure that all environment variables and build settings are correctly configured in your deployment platform.
+[dukan-app-ui](https://dukan-app-ui.netlify.app/)
 
-## Contributing
 
-Contributions to this project are welcome! Please fork the repository and submit a pull request with your enhancements.
+## Preview
 
-## License
+[Dukan App FrontEnd Preview](https://youtu.be/mmdieewTAAk)
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-## Acknowledgements
+## Dukan-Frontend
 
-- Thanks to the developers and contributors of the libraries used in this project.
-- Special thanks to [Razorpay](https://razorpay.com) for the easy-to-integrate payment solutions.
+![dukkan-app-ui](./src/assets/Thumbnail.gif) 
+

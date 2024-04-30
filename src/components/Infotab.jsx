@@ -4,7 +4,7 @@ import { Particle } from './Particle'; // Assuming this path is correct
 
 export function Infotab() {
     return (
-        <div className='flex justify-center h-fit m-4 mt-14'>
+        <div className='grid grid-cols-1 md:flex justify-center h-fit m-4 mt-14'>
             <div className='p-8 relative '>
                 <Particle />
                 {/* <CountUp end={100} /> */}

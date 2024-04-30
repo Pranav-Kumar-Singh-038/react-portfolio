@@ -36,11 +36,11 @@ This project is a portfolio website designed for commercial businesses to showca
 3. **Running the application**
 
    ```bash
-   npm start
+   npm run dev
    ```
 
    This will run the app in the development mode.\
-   Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+   Open [http://localhost:5176](http://localhost:5176) to view it in your browser.
 
 ## Live Link
 
@@ -52,7 +52,7 @@ This project is a portfolio website designed for commercial businesses to showca
 [Commercial Portfolio Preview](https://youtu.be/vBHWc2qzqa0)
 
 
-## Dukan-Frontend
+## React Commercial Portfolio
 
 ![dukkan-app-ui](./src/assets/Thumbnail.gif) 
 
